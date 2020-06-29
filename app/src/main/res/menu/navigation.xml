@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/unselect_message"
+        android:title="@string/tv_message" />
+    <item
+        android:id="@+id/navigation_friends"
+        android:icon="@drawable/unselect_friends"
+        android:title="@string/tv_friend" />
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/unselect_mine"
+        android:title="@string/tv_mine" />
+</menu>
